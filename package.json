@@ -1,0 +1,24 @@
+{
+    "name": "uebungsaufgabe",
+    "version": "1.0.0",
+    "description": "Erstelle ein Konsolenprogramm, das eine einfache Bestellverwaltung simuliert.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CaRpA-devo/uebungsaufgabe.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/CaRpA-devo/uebungsaufgabe/issues"
+    },
+    "homepage": "https://github.com/CaRpA-devo/uebungsaufgabe#readme",
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
