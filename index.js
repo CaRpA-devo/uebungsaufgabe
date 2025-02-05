@@ -9,6 +9,12 @@ const products = [
     "Smartphone-499.99 €",
     "Kopfhörer-99.99 €",
     "Monitor-199.99 €",
+    "Camera-399.99 €",
+    "PS5-699.99 €",
+    "Tv-799.99 €",
+    "Laufwerk-999.99 €",
+    "Tastatur-9.99 €",
+    "Mauspad-399",
 ];
 
 const whichProduct = keyInSelect(
